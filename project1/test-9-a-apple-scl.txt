@@ -1,0 +1,18 @@
+C
+12
+// Used for Appendix A example
+a&
+apple
+app[le]
+sky[]
+su!n
+bar!d
+Baum!
+//comment
+A
+Her?
+//comment
+Herre
+[ri]ght
+Carts
+

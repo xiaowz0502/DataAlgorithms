@@ -1,0 +1,16 @@
+# This is the Spec Test!
+g
+r
+c thREAD
+k (CID #4 #3
+c pgm
+t 04:25:21:55:36|04:25:21:55:37
+t 04:25:21:55:34|04:25:21:55:35
+t 99:98:99:99:00|99:99:99:99:97
+c ALRM
+k finished-master e-lection
+c thread
+r
+g
+p
+q

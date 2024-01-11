@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3C499CC6-39D4-4DAD-9C1A-A494F3F791FA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA3BDB66-606B-4C78-8E75-9DBBF3B9C254"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BinaryPQ.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "push(val)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AA3BDB66-606B-4C78-8E75-9DBBF3B9C254 - 6c4b501e7bfcdcc6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BinaryPQ&lt;int*, IntPtrComp&gt;::push(int* const&amp;)"
+                  moduleName = "project2B"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tudou/Desktop/project2B/BinaryPQ.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "62">
+               </Location>
+               <Location
+                  uuid = "AA3BDB66-606B-4C78-8E75-9DBBF3B9C254 - ec42f85004521444"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BinaryPQ&lt;int, std::__1::less&lt;int&gt; &gt;::push(int const&amp;)"
+                  moduleName = "project2B"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tudou/Desktop/project2B/BinaryPQ.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "62">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C88FEC86-C3C3-4A1C-9CAC-69127B1428A9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BinaryPQ.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "fixup(item)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D30A29A5-ACB7-4EB9-8570-53B02DC530D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PairingPQ.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "~PairingPQ()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D30A29A5-ACB7-4EB9-8570-53B02DC530D1 - a8dcc8708ce30575"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PairingPQ&lt;int*, IntPtrComp&gt;::~PairingPQ()"
+                  moduleName = "project2B"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tudou/Desktop/project2B/PairingPQ.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "D30A29A5-ACB7-4EB9-8570-53B02DC530D1 - a8dcc8708ce30575"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PairingPQ&lt;int*, IntPtrComp&gt;::~PairingPQ()"
+                  moduleName = "project2B"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tudou/Desktop/project2B/PairingPQ.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "D30A29A5-ACB7-4EB9-8570-53B02DC530D1 - a8dcc8708ce30575"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PairingPQ&lt;int*, IntPtrComp&gt;::~PairingPQ()"
+                  moduleName = "project2B"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tudou/Desktop/project2B/PairingPQ.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "D30A29A5-ACB7-4EB9-8570-53B02DC530D1 - 1674370a7aafc302"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PairingPQ&lt;int, std::__1::less&lt;int&gt; &gt;::~PairingPQ()"
+                  moduleName = "project2B"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tudou/Desktop/project2B/PairingPQ.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "D30A29A5-ACB7-4EB9-8570-53B02DC530D1 - 1674370a7aafc302"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PairingPQ&lt;int, std::__1::less&lt;int&gt; &gt;::~PairingPQ()"
+                  moduleName = "project2B"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tudou/Desktop/project2B/PairingPQ.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "D30A29A5-ACB7-4EB9-8570-53B02DC530D1 - 1674370a7aafc302"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PairingPQ&lt;int, std::__1::less&lt;int&gt; &gt;::~PairingPQ()"
+                  moduleName = "project2B"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tudou/Desktop/project2B/PairingPQ.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9A644EA-0B49-45D0-B7C6-E995EEE023BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PairingPQ.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "updatePriorities()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C9A644EA-0B49-45D0-B7C6-E995EEE023BC - d98db2b5fdc61e4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PairingPQ&lt;int*, IntPtrComp&gt;::updatePriorities()"
+                  moduleName = "project2B"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tudou/Desktop/project2B/PairingPQ.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "C9A644EA-0B49-45D0-B7C6-E995EEE023BC - c0f0a41ec3916398"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PairingPQ&lt;int, std::__1::less&lt;int&gt; &gt;::updatePriorities()"
+                  moduleName = "project2B"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tudou/Desktop/project2B/PairingPQ.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F211B5FE-3DA7-4B16-B52F-65AC3903F201"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PairingPQ.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "updatePriorities()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F211B5FE-3DA7-4B16-B52F-65AC3903F201 - d98db2b5fdc61e09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PairingPQ&lt;int*, IntPtrComp&gt;::updatePriorities()"
+                  moduleName = "project2B"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tudou/Desktop/project2B/PairingPQ.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "F211B5FE-3DA7-4B16-B52F-65AC3903F201 - c0f0a41ec39163da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PairingPQ&lt;int, std::__1::less&lt;int&gt; &gt;::updatePriorities()"
+                  moduleName = "project2B"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tudou/Desktop/project2B/PairingPQ.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

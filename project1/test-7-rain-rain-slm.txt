@@ -1,0 +1,4 @@
+S
+1
+// Used for Appendix A example
+rain

@@ -1,0 +1,14 @@
+r
+k lock #3
+k U.I
+k .UI
+k UI.
+k lock% 3
+k lock3
+k &lock #3&
+k lock-3
+r
+t 07:02:10:12:43|07:02:10:12:43
+g
+r
+q
